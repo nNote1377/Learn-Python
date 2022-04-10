@@ -12,7 +12,6 @@ body {
 #container
 	{
 		width: auto;
-
   }
 
 #logo
@@ -116,7 +115,7 @@ a:link, a:visited {
 #odp
   {
     width: auto;
-    background:rgb(0, 0, 0);
+    background:rgb(255, 0, 0);
 		padding: 10px;
     text-align: center;
     clear: both;
