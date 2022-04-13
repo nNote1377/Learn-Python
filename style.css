@@ -17,10 +17,10 @@ body {
 #logo
 	{
 		/*background-color: rgb(0, 0, 0);*/
-		color: rgb(0, 255, 42);
+		color: rgb(0, 0, 0);
 		text-align: center;
 		padding: 10px;
-    background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
+    background: linear-gradient(to bottom left, #0004ff 0%, #ffffff 100%);
     font-size: 50px;
     width: auto;
   }
@@ -61,7 +61,7 @@ a:link, a:visited {
 #R2
   {
     width: auto;
-    background:rgb(0, 217, 255);
+    background:rgb(243, 255, 139);
 		padding: 10px;
     text-align: center;
     clear: both;
@@ -70,7 +70,7 @@ a:link, a:visited {
 #R3
   {
     width: auto;
-    background:rgb(164, 108, 255);
+    background:rgb(17, 0, 255);
 		padding: 10px;
     text-align: center;
     clear: both;
@@ -121,3 +121,14 @@ a:link, a:visited {
     clear: both;
     font-size: 15px;
   }
+
+
+
+
+
+
+
+
+
+
+  
