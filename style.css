@@ -1,6 +1,15 @@
 html {
   scroll-behavior: smooth;
 }
+
+code {
+  background-color: #eee;
+  border-radius: 0px;
+  font-family: courier, monospace;
+  padding: 0px;
+}
+
+
 body {
   /*background-color: #33ccff;*/
   font-family: Arial;
